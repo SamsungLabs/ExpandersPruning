@@ -15,7 +15,7 @@ For conditions of distribution and use, see the accompanying LICENSE.md file. --
 
 # Data-Free Model Pruning at Initialization via Expanders
 
-This respository contains the code and experiments for the paper "Data-Free Model Pruning at Initialization via Expanders", appearing at the Efficient Deep Learning for Computer Vision CVPR Workshop, 2023.
+This respository contains the code and experiments for the paper [Data-Free Model Pruning at Initialization via Expanders](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Stewart_Data-Free_Model_Pruning_at_Initialization_via_Expanders_CVPRW_2023_paper.pdf), published at the Efficient Deep Learning for Computer Vision CVPR Workshop, 2023.
 
 Authors: James Stewart, Umberto Michieli, and Mete Ozay.
 
